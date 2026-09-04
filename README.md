@@ -9,7 +9,7 @@
 <!--                     TYPING ANIMATION                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Applications;2.5%2B+Years+of+Full+Stack+Experience;Spring+Boot+%7C+Angular+%7C+Microservices;Passionate+About+System+Design+%26+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Applications;3%2B+Years+of+Full+Stack+Experience;Spring+Boot+%7C+Angular+%7C+Microservices;Passionate+About+System+Design+%26+AI" alt="Typing Animation" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
