@@ -42,7 +42,7 @@
 public class Sabarinathan {
     private String role = "Software Engineer | Full Stack Developer";
     private String location = "Bangalore, Karnataka, India";
-    private double experience = 2.5; // Years
+    private double experience = 3; // Years
     
     public String[] getExpertise() {
         return new String[] {
