@@ -41,7 +41,7 @@
 ```java
 public class Sabarinathan {
     private String role = "Software Engineer | Full Stack Developer";
-    private String location = "Bangalore, Karnataka, India";
+    private String location = "Chennai, Tamilnadu, India";
     private double experience = 3; // Years
     
     public String[] getExpertise() {
